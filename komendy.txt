@@ -1,0 +1,6 @@
+{
+  "extends": ["html-validate:recommended"]
+}
+
+
+npm exec html-validate index.html
